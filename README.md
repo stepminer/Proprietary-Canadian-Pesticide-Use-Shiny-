@@ -47,4 +47,4 @@ For inquiries regarding the application or the data, please contact **Patrick St
 https://ps-consults.com/
 
 ## License
-The data is copyrighted and all rights are reserved by **Patrick Stephenson (2024)**.
+The data is copyrighted and all rights are reserved by **Patrick Stephenson (2024)**.© 2024 Patrick Prézeau Stephenson
